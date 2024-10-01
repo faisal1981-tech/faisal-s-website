@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+ I am Mohammed Faisal Iftikhar. I am currently a PhD student at UTD in 
+ criminology. I have taught at Dallas ISD for 4 years prior to joining UTD. My 
+ research interests are gun control and capital punishment. 
+
+
+
+```{r}
+1 + 1
+```
